@@ -1,0 +1,14 @@
+uuid: e03f54e2-5efc-44cb-bbab-2ca5e24520d2
+name: 'Composer Demo'
+mail: melinda.hardin@jocogov.org
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
